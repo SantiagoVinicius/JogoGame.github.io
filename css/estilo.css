@@ -1,0 +1,30 @@
+    /*
+    background: #4682B4
+    color:SteelBlue
+    */ 
+
+    body{
+        background:darkcyan;
+        color: #ffffff; 
+        text-align:  center; 
+    }
+    h1{ font-size:60px;
+        color:rgb(233, 114, 35);
+    }
+    a{
+         font-size: 40px;
+         /* text-decoration: none; */
+         /*color:white;*/
+        color: maroon;
+    }
+    hr{
+        height: 10px;
+    }
+    .VerdeGreen{
+        background:green
+        
+    }
+    .VermelhoEscuro{
+        background:firebrick
+    }
+    
